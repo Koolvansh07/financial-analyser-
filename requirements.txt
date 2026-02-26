@@ -1,0 +1,15 @@
+﻿fastapi
+uvicorn[standard]
+streamlit
+google-generativeai
+pdfplumber
+pandas
+scikit-learn
+plotly
+sqlalchemy
+python-dotenv
+python-multipart
+requests
+pytest
+matplotlib
+reportlab
